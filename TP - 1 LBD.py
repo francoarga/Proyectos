@@ -1,5 +1,4 @@
 # Análisis de datos de migración en países con sedes de representación argentina
-# Franco Algañaraz, Leandro Barrios, Sofía Rodríguez
 #%% ==========================================================================================
 # Importamos librerias
 import pandas as pd
